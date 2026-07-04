@@ -1,11 +1,11 @@
-<center style="font-size:25px;"><h1>Madyax</h1></center>
+<h1 style="text-align: center;font-size:50px;">Madyax</h1>
 
 <h1>What is Madyax?</h1>
-<p >Madyax is a market dynamics analyzer program currently focused on the crypto market. This project, which is built using the Python language and its libraries, is responsible for looking at the financial market at a micro level. It is built to oversee both the spot and the derivative markets and output a micro-level analysis.</p>
+<p>Madyax is a market dynamics analyzer program currently focused on the crypto market. This project, which is built using the Python language and its libraries, is responsible for looking at the financial market at a micro level. It is built to oversee both the spot and the derivative markets and output a micro-level analysis.</p>
 
 
 <h1>How is it structured?</h1>
-<p>Madyax is built on three broad sub-sectors working in parallel: Data gathering, Data analysis, and Information outputting. Depending on the market and the tool being used, however, there are adaptations and modifications applied as well.</p>
+<p>Madyax is built on three broad sub-sectors working in parallel: Data Extraction, Data Analysis, and Data Delivery. Depending on the market and the tool being used, however, there are adaptations and modifications applied as well.</p>
 
 <h1>What exactly does it look into and analyze at a micro level?</h1>
 <p>Since this project is based on academic and original models, all the programs are tailored to output the evaluation of the models based on actual data. The range of analysis can be categorized into orderbook-focused and non-orderbook-focused. Examples of orderbook-focused analysis are:</p>
