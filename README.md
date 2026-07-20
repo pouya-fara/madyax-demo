@@ -39,4 +39,4 @@
 <div style="margin-top:5px;margin-bottom:5px;width:100%;height:2px;background-color:white;"></div>
 <em>* Information hiding is usually done by the exchange to reduce the risk exposure of investors while executing large orders, including iceberg orders. This is more prominent in low-liquidity markets, including Binance's spot market.</em>
 <br>
-<em>** This project is not built to capture immediate mispricings and trade in a high-frequency nature. Rather, the objective of this project is to capture micro-interactions and gather insights from the HFT market. Therefore, for easy access and readability, the final outputs are stored in a .txt file instead of a database.</em>
+<em>** This project is not built to capture immediate mispricings and trade in a high-frequency nature. Rather, the objective of this project is to capture micro-interactions and gather insights from the HFT market. Therefore, for easy access and readability, the final outputs are stored in a .md file instead of a database.</em>
